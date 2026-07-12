@@ -6,5 +6,21 @@
       ],
       "key": "-"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "+"
+    }
   ]
 }
