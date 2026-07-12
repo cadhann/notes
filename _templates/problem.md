@@ -1,6 +1,5 @@
 ---
 type: problem
-course: 
 topic: 
 source: 
 difficulty: 3

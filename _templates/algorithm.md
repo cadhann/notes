@@ -1,6 +1,6 @@
 ---
 type: algorithm
-course: 
+source: 
 topic: algorithms
 complexity_time: 
 complexity_space: 

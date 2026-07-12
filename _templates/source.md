@@ -1,12 +1,14 @@
 ---
-type: lecture
-course: 
-lecture_no: 
+type: source
+source: 
+source_type: lecture
+no: 
 date: {{date:YYYY-MM-DD}}
+ref: 
 status: raw
 ---
 
-# {{course}} - L{{lecture_no}}: {{title}}
+# {{title}}
 
 ## Key Claims
 - 

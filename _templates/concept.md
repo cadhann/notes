@@ -1,6 +1,6 @@
 ---
 type: concept
-course: 
+source: 
 topic: 
 status: seedling
 difficulty: 3

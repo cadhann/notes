@@ -1,6 +1,6 @@
 ---
 type: proof
-course: 
+source: 
 topic: 
 technique: 
 status: seedling
